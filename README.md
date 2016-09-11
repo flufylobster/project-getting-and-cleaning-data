@@ -1,7 +1,7 @@
 # Coursera_Getting and Cleaning Data - Course Project_Flufylobster
 
 This is the course project for the Getting and Cleaning Data Coursera course.
-The R script, `run_analysis.R`, when ececuted does the following actions
+The R script, `run_analysis.R`, when executed does the following actions
 
 1. Download the dataset if it does not already exist in the working directory
 2. Load the activity and feature info
